@@ -66,7 +66,7 @@
     </dependencyManagement>
 
     <dependencies>
-        <dependency>0.tcp.ngrok.io
+        <dependency>
             <groupId>org.jadira.usertype</groupId>
             <artifactId>usertype.core</artifactId>
             <version>${jadira-usertype-core.version}</version>
